@@ -1,1 +1,1 @@
-# bootcamp-fronend
+# bootcamp-frontend
